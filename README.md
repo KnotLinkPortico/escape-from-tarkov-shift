@@ -36,4 +36,4 @@ Industry-grade **Escape from Tarkov Shift** gaming solution with hardware monito
 
 ## ⚠️ Disclaimer
 > [!CAUTION]
-> This repository is provided for educational and utility purposes only. Use at your own discretion.
+> This repository is provided for educational and utility purposes only. Use at your own discretion. 
